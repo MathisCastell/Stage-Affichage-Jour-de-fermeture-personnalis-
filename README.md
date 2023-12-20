@@ -1,1 +1,1 @@
-# Stage-Affichage-Jour-de-fermeture-personnalis-
+# Stage Affichage Jour de fermeture personnalise
